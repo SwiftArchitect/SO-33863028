@@ -7,7 +7,7 @@
 
 ### Stack Overflow Question 33863028
 
-Xcode project & source code related to [UITableViewController, Storyboard](http://stackoverflow.com/a/33864927/218152) anwser.
+Xcode project & source code related to [UITableViewController, Storyboard](https://stackoverflow.com/questions/33863028/hidesbarsonswipe-will-show-toolbar-unexpectedly/33864927#33864927) answer.
 
 ---
 
@@ -17,6 +17,6 @@ Xcode project & source code related to [UITableViewController, Storyboard](http:
 
 **References:**
 
-- [SO-33863028](http://stackoverflow.com/questions/33863028/hidesbarsonswipe-will-show-toolbar-unexpectedly) on StackOverflow
+- Question [33863028](https://stackoverflow.com/questions/33863028) on StackOverflow
 - This and other answers posted on [Swift Recipes](http://swiftarchitect.com/recipes/)
 
